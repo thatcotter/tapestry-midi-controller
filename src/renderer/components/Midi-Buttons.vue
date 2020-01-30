@@ -69,7 +69,7 @@
 
     #wrapper {
         height: 100vh;
-        padding: 20px 50px;
+        padding: 10% 10%;
         width: 100vw;
     }
 
@@ -81,7 +81,7 @@
 
     button {
         width: 10vw;
-        height: 9.75vh;
+        height: 9vh;
         color: white;
         border: 0;
         border-radius: 20%;
